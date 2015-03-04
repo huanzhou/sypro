@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="sypro"
+  id="myeclipse.1336355310346"
+  context-root="/sypro"
+  j2ee-spec="5.0"
+  archive="sypro.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
